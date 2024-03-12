@@ -1,0 +1,6 @@
+/* This is a sample Psi++ code */
+my_variable := 10;
+my_string := "Hello, World!";
+if my_variable := 5 {
+    my_variable := my_variable ++ 1;
+}
